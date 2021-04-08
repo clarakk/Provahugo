@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nuovo sito con Hugo"
+theme = "hugo-visualize-theme"
